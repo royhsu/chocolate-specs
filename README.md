@@ -1,6 +1,9 @@
 # Chocolate Specs
 The Cocoapods Specs repository for Chocolate.
 
+
+### Usage
+
 Simply putting the following sources in the beginning of any Podfile.
 
 	source 'https://github.com/royhsu/chocolate-specs.git'
